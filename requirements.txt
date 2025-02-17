@@ -11,3 +11,6 @@ bcrypt
 passlib[bcrypt]
 python-jose
 loguru
+httpx
+pytest
+pytest-asyncio

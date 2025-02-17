@@ -2,3 +2,4 @@ data
 venv
 .env
 .idea
+app/.pytest_cache
